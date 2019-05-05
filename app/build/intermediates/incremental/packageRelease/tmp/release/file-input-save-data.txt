@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 03 11:36:36 BDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\ambit\\Desktop\\Sampreeti\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
